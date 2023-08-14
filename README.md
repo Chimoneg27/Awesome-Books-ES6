@@ -15,7 +15,7 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 [Personal Portfolio] <a name="about-project"></a>
+# 📖 [Awesome Books With ES6] <a name="about-project"></a>
 
 **[Awesome Books With ES6]** is a project which has been built of from the original awesome-books. This time it is built using modules
 
