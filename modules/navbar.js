@@ -1,4 +1,6 @@
-export default function Navbar() {
+let Navbar;
+
+export default Navbar = () => {
   const bookForm = document.getElementById('book-entry');
   const bookStore = document.getElementById('bookStore');
   const listClick = document.querySelector('#list');
