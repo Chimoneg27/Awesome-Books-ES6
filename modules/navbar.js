@@ -1,6 +1,4 @@
-let Navbar;
-
-export default Navbar = () => {
+const Navbar = () => {
   const bookForm = document.getElementById('book-entry');
   const bookStore = document.getElementById('bookStore');
   const listClick = document.querySelector('#list');
@@ -41,4 +39,6 @@ export default Navbar = () => {
   contactClick.addEventListener('click', contactUs);
   addClick.addEventListener('click', showForm);
   listClick.addEventListener('click', showShelf);
-}
+};
+
+export default Navbar;
