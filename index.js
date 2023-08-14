@@ -1,8 +1,6 @@
-/* eslint-disable no-unused-vars */
 /* eslint-disable no-use-before-define */
 import Navbar from './modules/navbar.js';
 import BookLibrary from './modules/bookShelf.js';
-import BookObj from './modules/books.js';
 import { DateTime } from './node_modules/luxon/src/luxon.js';
 
 const bookForm = document.getElementById('book-entry');
